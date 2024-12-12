@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Carlos Sarmiento.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=montserrat&pause=1000&color=2955F7&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
+
 <!--
 **sarmiente/sarmiente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
